@@ -109,7 +109,6 @@ DICOM · VTK · ITK · DCMTK · GDCM · RTK · RTPlan · DICOM RT
 | | |
 |---|---|
 | 📧 Email | [baladastagiriroopanagudi@gmail.com](mailto:baladastagiriroopanagudi@gmail.com) |
-| 📞 Phone | +91 7093690837 |
 | 💼 LinkedIn | [linkedin.com/in/baladastagiri-roopanagudi](https://www.linkedin.com/in/baladastagiri-roopanagudi-aa1602312) |
 | 🌐 Portfolio | [Baladastagirifolio.com](https://baladastagiri-r14.github.io/BaladastagiriPortfolio) |
 | 📍 Location | Malur, Karnataka, India |
