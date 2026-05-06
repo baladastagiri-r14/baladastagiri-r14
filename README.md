@@ -4,10 +4,10 @@
 
 **Senior Design Engineer · Medical Image Processing · Qt/C++ · DICOM**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baladastagiri-roopanagudi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baladastagiri-roopanagudi-aa1602312)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baladastagiriroopanagudi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://baladastagiri-r14.github.io/BaladastagiriPortfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baladastagiri-r14)
 
 </div>
 
@@ -103,17 +103,6 @@ DICOM · VTK · ITK · DCMTK · GDCM · RTK · RTPlan · DICOM RT
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8612c&icon_color=e8612c)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8612c)
-
-</div>
-
----
 
 ## 📬 Get In Touch
 
@@ -121,8 +110,8 @@ DICOM · VTK · ITK · DCMTK · GDCM · RTK · RTPlan · DICOM RT
 |---|---|
 | 📧 Email | [baladastagiriroopanagudi@gmail.com](mailto:baladastagiriroopanagudi@gmail.com) |
 | 📞 Phone | +91 7093690837 |
-| 💼 LinkedIn | [linkedin.com/in/baladastagiri-roopanagudi](https://linkedin.com/in/baladastagiri-roopanagudi) |
-| 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
+| 💼 LinkedIn | [linkedin.com/in/baladastagiri-roopanagudi](https://www.linkedin.com/in/baladastagiri-roopanagudi-aa1602312) |
+| 🌐 Portfolio | [Baladastagirifolio.com](https://baladastagiri-r14.github.io/BaladastagiriPortfolio) |
 | 📍 Location | Malur, Karnataka, India |
 
 ---
